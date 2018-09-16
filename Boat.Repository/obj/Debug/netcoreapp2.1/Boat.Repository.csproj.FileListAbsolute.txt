@@ -1,0 +1,17 @@
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Boat.Repository.deps.json
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Boat.Repository.dll
+D:\boatService\boat\Boat.Repository\obj\Debug\netcoreapp2.1\Boat.Repository.csproj.CoreCompileInputs.cache
+D:\boatService\boat\Boat.Repository\obj\Debug\netcoreapp2.1\Boat.Repository.AssemblyInfoInputs.cache
+D:\boatService\boat\Boat.Repository\obj\Debug\netcoreapp2.1\Boat.Repository.AssemblyInfo.cs
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Boat.Repository.pdb
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Iyzipay.dll
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Iyzipay.pdb
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Iyzipay.dll.config
+D:\boatService\boat\Boat.Repository\obj\Debug\netcoreapp2.1\Boat.Repository.csprojAssemblyReference.cache
+D:\boatService\boat\Boat.Repository\obj\Debug\netcoreapp2.1\Boat.Repository.csproj.CopyComplete
+D:\boatService\boat\Boat.Repository\obj\Debug\netcoreapp2.1\Boat.Repository.dll
+D:\boatService\boat\Boat.Repository\obj\Debug\netcoreapp2.1\Boat.Repository.pdb
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Boat.Business.dll
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Boat.Data.dll
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Boat.Business.pdb
+D:\boatService\boat\Boat.Repository\bin\Debug\netcoreapp2.1\Boat.Data.pdb

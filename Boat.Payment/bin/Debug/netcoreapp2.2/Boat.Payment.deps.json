@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "d6507580608e1812ed5464514f76682d9ebc0701"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Boat.Payment/1.0.0": {
+        "dependencies": {
+          "Iyzipay": "1.0.0",
+          "NLog": "4.5.9",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "Boat.Payment.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "NLog/4.5.9": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.5.9.8171"
+          }
+        }
+      },
+      "Iyzipay/1.0.0": {
+        "runtime": {
+          "Iyzipay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boat.Payment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "NLog/4.5.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-csPuByZl2q4O6ZZ8L8BVwu7r03ORIehgZBODmgP5s+3dLarOyW0waM6TN8HwkeLNI5E0mJezp8IB7mXIKhsOqQ==",
+      "path": "nlog/4.5.9",
+      "hashPath": "nlog.4.5.9.nupkg.sha512"
+    },
+    "Iyzipay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

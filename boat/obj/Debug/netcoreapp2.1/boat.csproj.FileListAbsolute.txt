@@ -1,0 +1,9 @@
+D:\boatService\boat\boat\bin\Debug\netcoreapp2.1\Boat.BackOffice.dll
+D:\boatService\boat\boat\obj\Debug\netcoreapp2.1\boat.csprojAssemblyReference.cache
+D:\boatService\boat\boat\obj\Debug\netcoreapp2.1\boat.csproj.CoreCompileInputs.cache
+D:\boatService\boat\boat\obj\Debug\netcoreapp2.1\boat.RazorAssemblyInfo.cache
+D:\boatService\boat\boat\obj\Debug\netcoreapp2.1\boat.RazorAssemblyInfo.cs
+D:\boatService\boat\boat\obj\Debug\netcoreapp2.1\boat.AssemblyInfoInputs.cache
+D:\boatService\boat\boat\obj\Debug\netcoreapp2.1\boat.AssemblyInfo.cs
+D:\boatService\boat\boat\obj\Debug\netcoreapp2.1\boat.RazorTargetAssemblyInfo.cache
+D:\boatService\boat\boat\bin\Debug\netcoreapp2.1\Boat.BackOffice.dll.config

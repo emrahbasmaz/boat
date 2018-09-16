@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Framework\BaseRequestMessage.cs" />
+    <Compile Remove="Framework\BaseResponseMessage.cs" />
+    <Compile Remove="Framework\RequestHeader.cs" />
+    <Compile Remove="Framework\ResponseHeader.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Boat.Data\Boat.Data.csproj" />
+    <ProjectReference Include="C:\Users\EMRAHB\Desktop\iyzico\iyzipay-dotnet-develop\Iyzipay\Iyzipay.csproj" />
+  </ItemGroup>
+
+</Project>

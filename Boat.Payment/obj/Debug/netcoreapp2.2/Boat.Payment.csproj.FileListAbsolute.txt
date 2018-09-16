@@ -1,0 +1,13 @@
+D:\boatService\boat\Boat.Payment\bin\Debug\netcoreapp2.2\Boat.Payment.deps.json
+D:\boatService\boat\Boat.Payment\bin\Debug\netcoreapp2.2\Boat.Payment.dll
+D:\boatService\boat\Boat.Payment\bin\Debug\netcoreapp2.2\Boat.Payment.pdb
+D:\boatService\boat\Boat.Payment\bin\Debug\netcoreapp2.2\Iyzipay.dll
+D:\boatService\boat\Boat.Payment\bin\Debug\netcoreapp2.2\Iyzipay.pdb
+D:\boatService\boat\Boat.Payment\bin\Debug\netcoreapp2.2\Iyzipay.dll.config
+D:\boatService\boat\Boat.Payment\obj\Debug\netcoreapp2.2\Boat.Payment.csprojAssemblyReference.cache
+D:\boatService\boat\Boat.Payment\obj\Debug\netcoreapp2.2\Boat.Payment.csproj.CoreCompileInputs.cache
+D:\boatService\boat\Boat.Payment\obj\Debug\netcoreapp2.2\Boat.Payment.AssemblyInfoInputs.cache
+D:\boatService\boat\Boat.Payment\obj\Debug\netcoreapp2.2\Boat.Payment.AssemblyInfo.cs
+D:\boatService\boat\Boat.Payment\obj\Debug\netcoreapp2.2\Boat.Payment.csproj.CopyComplete
+D:\boatService\boat\Boat.Payment\obj\Debug\netcoreapp2.2\Boat.Payment.dll
+D:\boatService\boat\Boat.Payment\obj\Debug\netcoreapp2.2\Boat.Payment.pdb

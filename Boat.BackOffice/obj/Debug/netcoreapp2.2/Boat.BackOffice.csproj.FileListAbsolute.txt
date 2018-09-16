@@ -1,0 +1,14 @@
+D:\boatService\boat\Boat.BackOffice\bin\Debug\netcoreapp2.2\Boat.BackOffice.dll.config
+D:\boatService\boat\Boat.BackOffice\bin\Debug\netcoreapp2.2\Boat.BackOffice.deps.json
+D:\boatService\boat\Boat.BackOffice\bin\Debug\netcoreapp2.2\Boat.BackOffice.dll
+D:\boatService\boat\Boat.BackOffice\bin\Debug\netcoreapp2.2\Boat.BackOffice.pdb
+D:\boatService\boat\Boat.BackOffice\bin\Debug\netcoreapp2.2\Iyzipay.dll
+D:\boatService\boat\Boat.BackOffice\bin\Debug\netcoreapp2.2\Iyzipay.pdb
+D:\boatService\boat\Boat.BackOffice\bin\Debug\netcoreapp2.2\Iyzipay.dll.config
+D:\boatService\boat\Boat.BackOffice\obj\Debug\netcoreapp2.2\Boat.BackOffice.csproj.CoreCompileInputs.cache
+D:\boatService\boat\Boat.BackOffice\obj\Debug\netcoreapp2.2\Boat.BackOffice.AssemblyInfoInputs.cache
+D:\boatService\boat\Boat.BackOffice\obj\Debug\netcoreapp2.2\Boat.BackOffice.AssemblyInfo.cs
+D:\boatService\boat\Boat.BackOffice\obj\Debug\netcoreapp2.2\Boat.BackOffice.csproj.CopyComplete
+D:\boatService\boat\Boat.BackOffice\obj\Debug\netcoreapp2.2\Boat.BackOffice.dll
+D:\boatService\boat\Boat.BackOffice\obj\Debug\netcoreapp2.2\Boat.BackOffice.pdb
+D:\boatService\boat\Boat.BackOffice\obj\Debug\netcoreapp2.2\Boat.BackOffice.csprojAssemblyReference.cache
